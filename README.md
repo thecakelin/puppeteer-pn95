@@ -18,17 +18,27 @@ You need to be in the same location in your computer as the files to run them.
 
 Install node version manager:
 
-  brew install nvm
+```
+brew install nvm
+```
 
 Install latest node version:
 
-  nvm install --lts
+```
+nvm install --lts
+```
 
 You can use npm or yarn to install [puppeteer](https://www.npmjs.com/package/puppeteer) (which is a node package)
 
 Print to output in terminal:
-  node pn95.js
+
+```
+node pn95.js
+```
 
 Print to file:
-  node pn95.js > pn95_masks.csv
+
+```
+node pn95.js > pn95_masks.csv
+```
 
