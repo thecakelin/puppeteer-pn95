@@ -4,6 +4,8 @@ Project N95 is a mask website that is shutting down. I wrote this scraping code 
 
 [Patrick's processed files](https://positive-gauge-216.notion.site/Selecting-a-Mask-for-the-Pandemic-c558299b5d6e47eeab8cf40c216e0f57)
 
+[Cakelin's Notion Database of Output CSV](https://www.notion.so/thecakelin/Project-N95-Web-Scraping-bd7db19e478e42d1a7e3ba9b75e28be1)
+
 This README is written for those who have little to no experience coding. I will not be maintaining or updating these files, it's just an example of scraping data for archival purposes
 
 ## Files
